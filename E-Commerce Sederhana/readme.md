@@ -6,3 +6,6 @@ E-commerce adalah dimana dalam satu website menyediakan atau dapatmelakukan Tran
 Aplikasi E-Commerce ini dapat digunakan dalam melakukan pembelian barang secara online dan digunakan pada waktu kapan saja dengan transaksi yang sangat mudah. Sistem ini dibuat menggunakan bahasa pemrograman PHP dan menggunakan database PhpMyAdmin.  
 
 **Kata Kunci : Sistem Informasi, E-Commerce, PHP, Notepad++  dan PhpMyAdmin.**
+
+-----
+[Channel Youtube](https://www.youtube.com/channel/UC3giPltx3oAflwwqs2-YYaQ)

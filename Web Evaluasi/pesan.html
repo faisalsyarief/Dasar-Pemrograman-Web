@@ -1,0 +1,48 @@
+<html
+<head><title>Pesan Iklan</title></head>
+<body>
+<h2><font face="arial">Pesan Iklan</font></h2>
+<form>
+<table width="90%">
+<tr>
+	<td>Nama</td>
+	<td><input type="text" name="nama" size="20" maxlenght="20"><td>
+</tr>
+<tr>
+	<td>Kota</td>
+	<td>
+	<select name="kota">
+	<option value="Bandung" selected>Bandung</option>	
+	<option value="Jakarta">Jakarta</option>
+	<option value="DLL">DLL</option>
+	</select>
+	</td>
+</tr>
+<tr>
+	<td>Telepon</td>
+	<td><input type="text" name="telepon" size="20" maxlenght="20"><td>
+</tr>
+<tr>	
+	<td valign="top">Pembayaran Melalui</td>
+	<td>
+	<td><input type="radio" name="pembayaran" value="tunai" checked>Tunai<hr>
+	<td><input type="radio" name="pembayaran" value="wesel">Wesel POS<hr>
+	<td><input type="radio" name="pembayaran" value="transfer">Transfer (Bank BNI No.008.341.001)</td>
+</tr>
+	<tr>
+	<td valign="top">Isi Pariwara</td>
+	<td><textarea name="keterangan" rows="3" cols="30" wrap></textarea></td>
+</tr>
+<tr>
+	<td valign="top">Jenis</td>
+	<td><input type="checkbox" name="Pribadi">Pribadi<hr><input type="checkbox" name="Usaha">Usaha</td>
+</tr>
+<tr>
+	<td></td>
+	<td><input type="submit" name="simpan" value="Kirim">
+	<input type="reset" name="clear" value="Ulang"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
